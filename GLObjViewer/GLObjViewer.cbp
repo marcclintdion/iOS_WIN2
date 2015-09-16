@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GLObjViewer" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release Win32">
+				<Option output="GLObjViewer" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_DEPRECATE" />
+				</Compiler>
+				<Linker>
+					<Add library="opengl32.lib" />
+					<Add library="glu32.lib" />
+					<Add library="olepro32.lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Unit filename="Content/Models/bricks_color_map.jpg">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="Content/Models/bricks_normal_map.jpg">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="Content/Models/credits.txt">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="Content/Models/cube.mtl">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="Content/Shaders/blinn_phong.glsl">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="Content/Shaders/normal_mapping.glsl">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="GLObjViewer.rc">
+			<Option compilerVar="WINDRES" />
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="WGL_ARB_multisample.cpp">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="WGL_ARB_multisample.h">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="bitmap.cpp">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="bitmap.h">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="gl2.cpp">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="gl2.h">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="main.cpp">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="model_obj.cpp">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="model_obj.h">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Unit filename="resource.h">
+			<Option target="Release Win32" />
+			<Option target="Debug Win32" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

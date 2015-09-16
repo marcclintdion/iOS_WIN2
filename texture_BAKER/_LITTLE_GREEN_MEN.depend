@@ -1,0 +1,359 @@
+# depslib dependency file v1.0
+1358646636 source:c:\!!!_ios_win2\texture_baker\rungl.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<GL/gl.h>
+	"headerFiles/glext.h"
+	"headerFiles/glext_Init_A.cpp"
+	"headerFiles/VSync.h"
+	<windows.h>
+	"headerFiles/glaux.h"
+	"headerFiles/FreeImage.h"
+	"cpp/freeImage.cpp"
+	<math.h>
+	"MATRIX_MATH.cpp"
+	"cpp/WGL_ARB_multisample.cpp"
+	"_SHADERS/SHADOWS/shadows_24B_GLOBALS.cpp"
+	"_SHADERS/PROCEDURALS/perlin_TABLE.cpp"
+	"_SHADERS/PROCEDURALS/Perlin.h"
+	"_MODEL_FOLDERS_/horseParts/horse_BLENDER_GLOBALS.cpp"
+	"_MODEL_FOLDERS_/horseParts/torso/torso_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/tail/tail_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/neck/neck_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/head/head_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightUpperLeg/frontRightUpperLeg_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightLowerLeg/frontRightLowerLeg_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightFoot/frontRightFoot_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightUpperLeg/backRightUpperLeg_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightLowerLeg/backRightLowerLeg_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightFoot/backRightFoot_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftUpperLeg/frontLeftUpperLeg_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftLowerLeg/frontLeftLowerLeg_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftFoot/frontLeftFoot_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftUpperLeg/backLeftUpperLeg_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftLowerLeg/backLeftLowerLeg_Globals.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftFoot/backLeftFoot_Globals.cpp"
+	"cpp/winInit.cpp"
+	"cpp/setPixelFormat.cpp"
+	"headerFiles/glext_Init_B.cpp"
+	"_SHADERS/PROCEDURALS/perlin.cpp"
+	"_MODEL_FOLDERS_/horseParts/horse_BLENDER_INIT.cpp"
+	"_MODEL_FOLDERS_/horseParts/torso/torso_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/tail/tail_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/neck/neck_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/head/head_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightUpperLeg/frontRightUpperLeg_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightLowerLeg/frontRightLowerLeg_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightFoot/frontRightFoot_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightUpperLeg/backRightUpperLeg_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightLowerLeg/backRightLowerLeg_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightFoot/backRightFoot_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftUpperLeg/frontLeftUpperLeg_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftLowerLeg/frontLeftLowerLeg_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftFoot/frontLeftFoot_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftUpperLeg/backLeftUpperLeg_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftLowerLeg/backLeftLowerLeg_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftFoot/backLeftFoot_Init.cpp"
+	"_MODEL_FOLDERS_/horseParts/torso/torso_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/neck/neck_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/head/head_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightUpperLeg/frontRightUpperLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightLowerLeg/frontRightLowerLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightFoot/frontRightFoot_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightUpperLeg/backRightUpperLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightLowerLeg/backRightLowerLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightFoot/backRightFoot_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftUpperLeg/frontLeftUpperLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftLowerLeg/frontLeftLowerLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftFoot/frontLeftFoot_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftUpperLeg/backLeftUpperLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftLowerLeg/backLeftLowerLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftFoot/backLeftFoot_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/torso/torso_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/neck/neck_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/head/head_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightUpperLeg/frontRightUpperLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightLowerLeg/frontRightLowerLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightFoot/frontRightFoot_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightUpperLeg/backRightUpperLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightLowerLeg/backRightLowerLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightFoot/backRightFoot_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftUpperLeg/frontLeftUpperLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftLowerLeg/frontLeftLowerLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftFoot/frontLeftFoot_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftUpperLeg/backLeftUpperLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftLowerLeg/backLeftLowerLeg_Render.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftFoot/backLeftFoot_Render.cpp"
+	"cpp/shutDownWin.cpp"
+	"_MODEL_FOLDERS_/horseParts/torso/torso_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/tail/tail_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/neck/neck_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/head/head_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightUpperLeg/frontRightUpperLeg_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightLowerLeg/frontRightLowerLeg_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontRightFoot/frontRightFoot_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightUpperLeg/backRightUpperLeg_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightLowerLeg/backRightLowerLeg_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/backRightFoot/backRightFoot_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftUpperLeg/frontLeftUpperLeg_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftLowerLeg/frontLeftLowerLeg_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/frontLeftFoot/frontLeftFoot_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftUpperLeg/backLeftUpperLeg_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftLowerLeg/backLeftLowerLeg_Shutdown.cpp"
+	"_MODEL_FOLDERS_/horseParts/backLeftFoot/backLeftFoot_Shutdown.cpp"
+
+1331275456 c:\!!!_ios_win2\texture_baker\headerfiles\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1358418724 c:\!!!_ios_win2\texture_baker\headerfiles\glext_init_a.cpp
+
+1153967042 c:\!!!_ios_win2\texture_baker\headerfiles\vsync.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+
+987025200 c:\!!!_ios_win2\texture_baker\headerfiles\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1125192290 c:\!!!_ios_win2\texture_baker\headerfiles\freeimage.h
+	<wchar.h>
+	<windows.h>
+
+1358224383 c:\!!!_ios_win2\texture_baker\cpp\freeimage.cpp
+
+1358415392 c:\!!!_ios_win2\texture_baker\matrix_math.cpp
+
+1346536858 c:\!!!_ios_win2\texture_baker\cpp\wgl_arb_multisample.cpp
+	<cassert>
+	<cstdio>
+	<cstring>
+	"../headerFiles/WGL_ARB_multisample.h"
+
+1346469962 c:\!!!_ios_win2\texture_baker\headerfiles\wgl_arb_multisample.h
+	<windows.h>
+	<GL/gl.h>
+
+1353802363 c:\!!!_ios_win2\texture_baker\_shaders\shadows\shadows_24b_globals.cpp
+
+1358419986 c:\!!!_ios_win2\texture_baker\_shaders\procedurals\perlin_table.cpp
+	"perlin.h"
+
+1358420012 c:\!!!_ios_win2\texture_baker\_shaders\procedurals\perlin.h
+	<math.h>
+	<stdio.h>
+
+1358427764 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\horse_blender_globals.cpp
+
+1358226396 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\torso\torso_globals.cpp
+
+1357910146 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\tail\tail_globals.cpp
+
+1357490687 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\neck\neck_globals.cpp
+
+1357493999 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\head\head_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightupperleg\frontrightupperleg_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightlowerleg\frontrightlowerleg_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightfoot\frontrightfoot_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightupperleg\backrightupperleg_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightlowerleg\backrightlowerleg_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightfoot\backrightfoot_globals.cpp
+
+1357913869 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftupperleg\frontleftupperleg_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftlowerleg\frontleftlowerleg_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftfoot\frontleftfoot_globals.cpp
+
+1357915761 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftupperleg\backleftupperleg_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftlowerleg\backleftlowerleg_globals.cpp
+
+1357639284 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftfoot\backleftfoot_globals.cpp
+
+1358415669 c:\!!!_ios_win2\texture_baker\cpp\wininit.cpp
+
+1346473770 c:\!!!_ios_win2\texture_baker\cpp\setpixelformat.cpp
+
+1358418724 c:\!!!_ios_win2\texture_baker\headerfiles\glext_init_b.cpp
+
+1358422269 c:\!!!_ios_win2\texture_baker\_shaders\procedurals\perlin.cpp
+
+1358430214 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\horse_blender_init.cpp
+
+1358421436 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\torso\torso_init.cpp
+	"torso.cpp"
+
+1358425743 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\torso\torso.cpp
+
+1357910046 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\tail\tail_init.cpp
+	"tail.cpp"
+
+1357909396 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\tail\tail.cpp
+
+1357490658 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\neck\neck_init.cpp
+	"neck.cpp"
+
+1357904807 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\neck\neck.cpp
+
+1357493915 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\head\head_init.cpp
+	"head.cpp"
+
+1357894655 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\head\head.cpp
+
+1357637731 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightupperleg\frontrightupperleg_init.cpp
+	"frontRightUpperLeg.cpp"
+
+1357912325 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightupperleg\frontrightupperleg.cpp
+
+1357609387 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightlowerleg\frontrightlowerleg_init.cpp
+	"frontRightLowerLeg.cpp"
+
+1357912210 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightlowerleg\frontrightlowerleg.cpp
+
+1357610106 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightfoot\frontrightfoot_init.cpp
+	"frontRightFoot.cpp"
+
+1357912278 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightfoot\frontrightfoot.cpp
+
+1357630927 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightupperleg\backrightupperleg_init.cpp
+	"backRightUpperLeg.cpp"
+
+1357912702 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightupperleg\backrightupperleg.cpp
+
+1357631887 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightlowerleg\backrightlowerleg_init.cpp
+	"backRightLowerLeg.cpp"
+
+1357913554 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightlowerleg\backrightlowerleg.cpp
+
+1357632292 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightfoot\backrightfoot_init.cpp
+	"backRightFoot.cpp"
+
+1357913572 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightfoot\backrightfoot.cpp
+
+1357914773 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftupperleg\frontleftupperleg_init.cpp
+	"frontLeftUpperLeg.cpp"
+
+1357914578 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftupperleg\frontleftupperleg.cpp
+
+1357637461 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftlowerleg\frontleftlowerleg_init.cpp
+	"frontLeftLowerLeg.cpp"
+
+1357914598 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftlowerleg\frontleftlowerleg.cpp
+
+1357637461 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftfoot\frontleftfoot_init.cpp
+	"frontLeftFoot.cpp"
+
+1357914622 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftfoot\frontleftfoot.cpp
+
+1357915889 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftupperleg\backleftupperleg_init.cpp
+	"backLeftUpperLeg.cpp"
+
+1358065572 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftupperleg\backleftupperleg.cpp
+
+1357637461 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftlowerleg\backleftlowerleg_init.cpp
+	"backLeftLowerLeg.cpp"
+
+1357915545 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftlowerleg\backleftlowerleg.cpp
+
+1357637461 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftfoot\backleftfoot_init.cpp
+	"backLeftFoot.cpp"
+
+1357915509 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftfoot\backleftfoot.cpp
+
+1358425776 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\torso\torso_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358430084 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\horse_blender_render.cpp
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\neck\neck_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\head\head_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightupperleg\frontrightupperleg_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightlowerleg\frontrightlowerleg_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightfoot\frontrightfoot_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightupperleg\backrightupperleg_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightlowerleg\backrightlowerleg_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightfoot\backrightfoot_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftupperleg\frontleftupperleg_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftlowerleg\frontleftlowerleg_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftfoot\frontleftfoot_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftupperleg\backleftupperleg_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftlowerleg\backleftlowerleg_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1358070308 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftfoot\backleftfoot_render.cpp
+	"../horse_BLENDER_Render.cpp"
+
+1334693092 c:\!!!_ios_win2\texture_baker\cpp\shutdownwin.cpp
+
+1357475663 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\torso\torso_shutdown.cpp
+
+1357909394 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\tail\tail_shutdown.cpp
+
+1357489555 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\neck\neck_shutdown.cpp
+
+1357493064 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\head\head_shutdown.cpp
+
+1357637769 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightupperleg\frontrightupperleg_shutdown.cpp
+
+1357609387 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightlowerleg\frontrightlowerleg_shutdown.cpp
+
+1357610106 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontrightfoot\frontrightfoot_shutdown.cpp
+
+1357630974 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightupperleg\backrightupperleg_shutdown.cpp
+
+1357631887 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightlowerleg\backrightlowerleg_shutdown.cpp
+
+1357632292 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backrightfoot\backrightfoot_shutdown.cpp
+
+1357915018 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftupperleg\frontleftupperleg_shutdown.cpp
+
+1357637152 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftlowerleg\frontleftlowerleg_shutdown.cpp
+
+1357637154 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\frontleftfoot\frontleftfoot_shutdown.cpp
+
+1357915018 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftupperleg\backleftupperleg_shutdown.cpp
+
+1357637156 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftlowerleg\backleftlowerleg_shutdown.cpp
+
+1357637461 c:\!!!_ios_win2\texture_baker\_model_folders_\horseparts\backleftfoot\backleftfoot_shutdown.cpp
+
